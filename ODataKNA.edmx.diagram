@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1357d35b5dcf4d5b8a3d9540287d51bb" Name="Diagram1" ZoomLevel="72" >
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.CUSTOMER_PRICE_LIST" Width="1.5" PointX="14.5" PointY="0.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.C2LIS_11_VASCL" Width="1.5" PointX="4.75" PointY="0.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.C2LIS_11_VASTH" Width="1.5" PointX="6.75" PointY="0.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.C2LIS_11_VASTI" Width="1.5" PointX="6.75" PointY="5.125" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.C2LIS_12_VCHDR" Width="1.5" PointX="8.75" PointY="0.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.C2LIS_12_VCITM" Width="1.5" PointX="10.75" PointY="0.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.BSTNK" Width="1.5" PointX="14.5" PointY="4" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.KNA1_BuP" Width="1.5" PointX="14.5" PointY="5.625" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.VAHDR" Width="1.5" PointX="17.5" PointY="0.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.VASTH" Width="1.5" PointX="17.5" PointY="8.625" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.A938" Width="1.5" PointX="21.375" PointY="0.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.ADRC" Width="1.5" PointX="21.375" PointY="5.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.KNA1" Width="1.5" PointX="17.375" PointY="21.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.KNMT" Width="1.5" PointX="11.375" PointY="22.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.KNVP" Width="1.5" PointX="23.375" PointY="0.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.KNVV" Width="1.5" PointX="23.375" PointY="5.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.KONP" Width="1.5" PointX="23.375" PointY="16.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.MAKT" Width="1.5" PointX="7.375" PointY="24.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.MARA" Width="1.5" PointX="25.375" PointY="0.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.MVKE" Width="1.5" PointX="19.375" PointY="26.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.VBAK_lite" Width="1.5" PointX="27.375" PointY="0.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.VBPA" Width="1.5" PointX="27.375" PointY="3.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.C2LIS_11_VAHDR" Width="1.5" PointX="2.875" PointY="0.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.A926" Width="1.5" PointX="5.375" PointY="27.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.A939" Width="1.5" PointX="27.375" PointY="6.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.VDITM" Width="1.5" PointX="19.5" PointY="0.625" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.C2LIS_13_VDITM" Width="1.5" PointX="7.375" PointY="27.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.AUSP" Width="1.5" PointX="27.375" PointY="10.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.CAWN" Width="1.5" PointX="27.375" PointY="13.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.CAWNT" Width="1.5" PointX="27.375" PointY="16.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.KNVH" Width="1.5" PointX="27.375" PointY="19.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.TVAG" Width="1.5" PointX="27.375" PointY="24.75" />
+        <EntityTypeShape EntityType="REPORTINGDEVModelKNA.C2LIS_11_VAITM" Width="1.5" PointX="2.75" PointY="9.625" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
